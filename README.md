@@ -1,5 +1,6 @@
 Java Console Chess
-Konzolos Sakk játék
+Java Konzolos Sakk játék
+
 Működő funkciók:
   - bábuk szabályos mozgása
   - sakk észlelése
